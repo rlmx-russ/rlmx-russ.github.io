@@ -21,9 +21,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: rlmx-russ                          # the main title
+title: Russ Morefield Documentation                          # the main title
 
-tagline: Tutorials & Docs   # it will display as the sub-title
+tagline: Doc site for my homelab projects.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Doc site for my homelab projects.
