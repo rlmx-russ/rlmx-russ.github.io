@@ -11,3 +11,7 @@ tags: homelab hardware
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
