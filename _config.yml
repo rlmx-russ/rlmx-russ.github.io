@@ -23,7 +23,7 @@ timezone: America/New_York
 
 title: Russ Morefield Documentation                          # the main title
 
-tagline: Doc site for my homelab projects.   # it will display as the sub-title
+tagline: My Opinons, Tutorials and Code Snippets.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Doc site for my homelab projects.
